@@ -14,3 +14,11 @@ This project analyzes Nvidia’s historical stock data to identify:
   5. Key statistical summaries
 
 The analysis helps in understanding stock market behavior using data-driven methods.
+
+**Objectives:**
+
+  Perform data cleaning and preprocessing
+  Analyze stock price trends and patterns
+  Visualize stock performance using charts
+  Generate meaningful insights from historical data
+  Practice exploratory data analysis techniques
