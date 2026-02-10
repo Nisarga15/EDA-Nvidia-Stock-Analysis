@@ -22,3 +22,16 @@ The analysis helps in understanding stock market behavior using data-driven meth
   Visualize stock performance using charts
   Generate meaningful insights from historical data
   Practice exploratory data analysis techniques
+
+**Dataset**
+
+The dataset typically includes:
+
+  Date
+  Open price
+  Close price
+  High price
+  Low price
+  Adjusted close
+  Volume
+(Data sourced from public stock market datasets such as Yahoo Finance or similar.)
