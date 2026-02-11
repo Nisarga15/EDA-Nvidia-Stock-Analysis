@@ -35,3 +35,10 @@ The dataset typically includes:
   Adjusted close
   Volume
 (Data sourced from public stock market datasets such as Yahoo Finance or similar.)
+
+
+
+
+
+**📄 Notes**
+This repository is for educational and practice purposes.
