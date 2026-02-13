@@ -53,3 +53,6 @@ Integrate real-time stock data APIs
 Nisarga Vishwamanjuswamy
 Master’s in Computer Science | Passionate about AI, Data Analytics, and Cloud Computing.
 ⭐ If you found this project useful, consider giving it a star!
+
+
+📄 Note: This repository is for educational and practice purposes.
