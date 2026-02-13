@@ -1,5 +1,6 @@
-**📊 NVIDIA Stock Data Analysis using Python
-📌 Overview**
+**📊 NVIDIA Stock Data Analysis using Python**
+
+**📌 Overview**
 This project presents a comprehensive Exploratory Data Analysis (EDA) of NVIDIA's historical stock data to identify market trends, price behavior, and volatility patterns. Using Python-based data analysis and visualization techniques, the project transforms raw financial data into meaningful insights that support data-driven decision-making.
 
 **🎯 Project Objectives**
